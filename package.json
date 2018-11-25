@@ -1,0 +1,15 @@
+{
+  "name": "darknet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "autodetect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "socket.io-client": "^2.1.1",
+    "unix-time": "^1.0.1"
+  }
+}
